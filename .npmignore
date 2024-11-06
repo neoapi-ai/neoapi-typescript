@@ -1,0 +1,5 @@
+__tests__
+.gitignore
+node_modules
+*.tgz
+src/
